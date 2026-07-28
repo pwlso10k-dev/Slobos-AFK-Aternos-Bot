@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.26",
-    "port": 42772,
+    "ip": "sentincesmp.play.hosting",
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
